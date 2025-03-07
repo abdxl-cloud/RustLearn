@@ -1,0 +1,37 @@
+# Compiled binaries
+debug/
+target/
+release/
+
+# Rust package manager files
+Cargo.lock
+Cargo.pkgid
+
+# Build artifacts
+**/*.rs.bk
+
+# Rust compilation output
+*.rlib
+
+# Generated files
+*.rmeta
+
+# Logs and temporary files
+*.log
+*.out
+*.tmp
+
+# IDE and editor-specific files
+.idea/
+.vscode/
+*.swp
+*.swo
+*.sublime-project
+*.sublime-workspace
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Rustup and toolchain files
+rustup-toolchain
